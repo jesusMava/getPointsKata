@@ -1,4 +1,5 @@
-const getPoints = require('./getPoints')
+import getPoints from './getPoints'
+
 let pos = 0
 let arr = [] 
 let acc = []

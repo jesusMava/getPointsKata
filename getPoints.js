@@ -17,4 +17,5 @@ const getPoints = (acc, pos, arr) => {
 }
 
 console.log(getPoints(acc, pos, arr))
-module.exports = getPoints
+
+export default getPoints
